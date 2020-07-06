@@ -1,0 +1,14 @@
+hundekacke
+==========
+
+YouTube Poop made with FLOSS
+
+This repo does not contain any source video files.
+They can be downloaded via youtube-dl, see the .sh file in each subdirectory.
+
+To open the project file you need a recent version of Cinelerra GG Infinity.
+
+Tools
+-----
+
+- Video editing: https://www.cinelerra-gg.org/
